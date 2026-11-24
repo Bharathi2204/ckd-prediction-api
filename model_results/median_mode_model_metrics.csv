@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Logistic Regression,1.0,1.0,1.0,1.0,1.0
+Random Forest,0.9875,1.0,0.9666666666666667,0.9830508474576272,0.9996666666666667
+SVM,1.0,1.0,1.0,1.0,1.0

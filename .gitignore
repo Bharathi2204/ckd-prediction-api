@@ -1,0 +1,12 @@
+ckd/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+mlruns/
+.env
+Client_Requirements.docx
+Kidney Health and CKD Explained.png
+code_files/track_ckd_model.ipynb
+Project_details.docx
+model_results/synthetic_medical_reports.csv
+model_results/synthetic_report_*.csv

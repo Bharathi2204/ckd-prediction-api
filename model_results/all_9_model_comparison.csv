@@ -1,0 +1,10 @@
+Imputation,Model,Accuracy,CKD_Precision,CKD_Recall_Sensitivity,Specificity,CKD_F1_Score,ROC_AUC
+Median-Mode,Logistic Regression,1.0,1.0,1.0,1.0,1.0,1.0
+Median-Mode,Random Forest,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.9996666666666667
+Median-Mode,SVM,1.0,1.0,1.0,1.0,1.0,1.0
+KNN,Logistic Regression,1.0,1.0,1.0,1.0,1.0,1.0
+KNN,Random Forest,1.0,1.0,1.0,1.0,1.0,1.0
+KNN,SVM,1.0,1.0,1.0,1.0,1.0,1.0
+Iterative,Logistic Regression,0.9875,1.0,0.98,1.0,0.98989898989899,1.0
+Iterative,Random Forest,1.0,1.0,1.0,1.0,1.0,1.0
+Iterative,SVM,1.0,1.0,1.0,1.0,1.0,1.0
